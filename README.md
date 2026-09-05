@@ -1,0 +1,1 @@
+# cheap-japan-cn2-hosts
